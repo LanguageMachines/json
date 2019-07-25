@@ -26,7 +26,7 @@ AC_LANG([C++])
 AC_CONFIG_FILES([
   Makefile
   json.pc
-  include/Makefile
-  include/nlohmann/Makefile
+  single_include/Makefile
+  single_include/nlohmann/Makefile
 ])
 AC_OUTPUT

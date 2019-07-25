@@ -1,6 +1,6 @@
 ACLOCAL_AMFLAGS =-I m4 --install
 
-SUBDIRS = include
+SUBDIRS = single_include
 
 EXTRA_DIST = bootstrap.sh AUTHORS TODO NEWS README.md json.pc.in
 
