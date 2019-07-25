@@ -1,0 +1,6 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+
+Name: json
+Version: @VERSION@
+Description: json utilities by N Lohmann
